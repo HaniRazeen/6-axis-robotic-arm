@@ -8,3 +8,4 @@ Connecting PCA9685 with ESP32
 | SCL | GPIO22 |
 
 Servo motor connected to channel 0.
+
